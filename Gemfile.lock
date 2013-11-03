@@ -13,6 +13,7 @@ GEM
     rack (1.5.2)
     rack-protection (1.5.0)
       rack
+    rack-rewrite (1.4.01)
     rack-test (0.6.2)
       rack (>= 1.0)
     raindrops (0.10.0)
@@ -40,6 +41,7 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-script
+  rack-rewrite
   sass
   sinatra
   sinatra-assetpack
