@@ -8,9 +8,8 @@
 
 /* THANKS */
 
-  Name: Foundation by Zurb, http://foundation.zurb.com
+  Name: Bootstrap, http://getbootstrap.com
 
 /* SITE */
   Standards: HTML5, CSS3
-  Components: Zepto, jQuery
-  Software: Sublime Text, Git
+  Software: Atom, Git
